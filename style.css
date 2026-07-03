@@ -1,0 +1,32 @@
+h1 {
+    color: red;
+    /* global */
+}
+/* for chicken 5-20 line*/
+#li5.content{
+    color: cornflowerblue;
+}
+.content{
+    color: royalblue;
+    font-size: large;
+}
+
+#main{
+    color: black;
+}
+/* chicken's picture */
+img{
+    height: auto;
+    width: 500px;
+}
+/* for index 22- 27 line*/
+#chicken
+{color : yellowgreen;}
+
+.link{
+    color: brown;
+}
+
+
+/*    *  <  tag (h1, div)  <  class (.box)  <  id (#box) */
+/* 繼承很弱 自己寫的會覆蓋  */
